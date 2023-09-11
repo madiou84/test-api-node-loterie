@@ -1,0 +1,22 @@
+# Editor
+/.fleet
+/.idea
+/.vscode
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+# Coveralls
+.nyc_output
+coverage
+
+/node_modules
+.env
+.env.backup
+.env.production
+
+npm-debug.log
+yarn-error.log

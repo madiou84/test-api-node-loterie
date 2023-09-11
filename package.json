@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "Madiou BAH",
+    "email": "mmadioubah@gmail.com",
+    "url": "https://madiou.vercel.app"
+  },
+  "name": "test-node-loterie",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {}
+}
